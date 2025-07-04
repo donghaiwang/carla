@@ -19,12 +19,12 @@ environmental conditions.
 ### Download CARLA
 
 Linux:
-* [**Get CARLA overnight build**](https://carla-releases.s3.us-east-005.backblazeb2.com/Linux/Dev/CARLA_Latest.tar.gz)
-* [**Get AdditionalMaps overnight build**](https://carla-releases.s3.us-east-005.backblazeb2.com/Linux/Dev/AdditionalMaps_Latest.tar.gz)
+* [**Get CARLA overnight build**](https://tiny.carla.org/carla-latest-linux)
+* [**Get AdditionalMaps overnight build**](https://tiny.carla.org/additional-maps-latest-linux)
 
 Windows:
-* [**Get CARLA overnight build**](https://carla-releases.s3.us-east-005.backblazeb2.com/Windows/Dev/CARLA_Latest.zip)
-* [**Get AdditionalMaps overnight build**](https://carla-releases.s3.us-east-005.backblazeb2.com/Windows/Dev/AdditionalMaps_Latest.zip)
+* [**Get CARLA overnight build**](https://tiny.carla.org/carla-latest-windows)
+* [**Get AdditionalMaps overnight build**](https://tiny.carla.org/additional-maps-latest-windows)
 
 ### Recommended system
 
@@ -52,9 +52,9 @@ Repositories associated with the CARLA simulation platform:
 * [**ROS-bridge**](https://github.com/carla-simulator/ros-bridge): Interface to connect CARLA 0.9.X to ROS
 * [**Driving-benchmarks**](https://github.com/carla-simulator/driving-benchmarks): Benchmark tools for Autonomous Driving tasks
 * [**Conditional Imitation-Learning**](https://github.com/felipecode/coiltraine): Training and testing Conditional Imitation Learning models in CARLA
-* [**AutoWare AV stack**](https://github.com/carla-simulator/carla-autoware): Bridge to connect AutoWare AV stack to CARLA
+* [**Autoware AV stack**](https://github.com/carla-simulator/carla-autoware): Bridge to connect Autoware AV stack to CARLA
 * [**Reinforcement-Learning**](https://github.com/carla-simulator/reinforcement-learning): Code for running Conditional Reinforcement Learning models in CARLA
-* [**RoadRunner**](https://www.mathworks.com/products/roadrunner.html): MATLAB GUI based application to create road networks in OpenDrive format
+* [**RoadRunner**](https://www.mathworks.com/products/roadrunner.html): MATLAB GUI based application to create road networks in the ASAM OpenDRIVE format
 * [**Map Editor**](https://github.com/carla-simulator/carla-map-editor): Standalone GUI application to enhance RoadRunner maps with traffic lights and traffic signs information
 
 
